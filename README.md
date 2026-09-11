@@ -55,9 +55,9 @@ pip install -r requirements.txt
 
 #### Run
 ```bash
-python its_giving_v2.py --calibrate   # once, seven seconds — learns your neutral face
-python its_giving_v2.py               # preview + virtual camera
-python its_giving_v2.py --no-vcam     # preview only, no virtual camera
+python twinkleberry.py --calibrate   # once, seven seconds — learns your neutral face
+python twinkleberry.py               # preview + virtual camera
+python twinkleberry.py --no-vcam     # preview only, no virtual camera
 ```
 
 | key | does |
@@ -95,9 +95,8 @@ python its_giving_v2.py --no-vcam     # preview only, no virtual camera
 [Add any extra demo materials/links]
 
 ## Team Contributions
-* [Name 1]: [Specific contributions]
-* [Name 2]: [Specific contributions]
-* [Name 3]: [Specific contributions]
+* Name 1: Adwaith Raj BP - Coding, Debugging, Technical Lead
+* Name 2: Haya Ayoobkhan - Documentation, Design, Demo & Pitch
 
 ---
 Made with ❤️ at TinkerHub Useless Projects
