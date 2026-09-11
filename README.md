@@ -73,27 +73,20 @@ python twinkleberry.py --no-vcam     # preview only, no virtual camera
 ### For Software:
 
 #### Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1600" height="899" alt="1" src="https://github.com/user-attachments/assets/0ff86409-5b22-42ad-9c73-37a5a7605ea7" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1434" height="1600" alt="2" src="https://github.com/user-attachments/assets/4de5da4e-2df2-4442-800b-a4048c4fb427" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 #### Diagrams
-![Workflow](Add your workflow/architecture diagram here)
 *Camera frame → MediaPipe (face/hand/body landmarks) → measure expressions relative to your calibrated neutral face → decide() picks the first matching pose → meme overlay is scaled and composited onto the frame → pushed out through the virtual camera.*
 
 ## Project Demo
 
 ### Video
-[Add your demo video link here]
-*Explain what the video demonstrates — e.g. calibrating, triggering a few reactions, and showing the virtual camera feed inside a meeting app.*
+https://drive.google.com/drive/folders/19NY-VCgZPx6YRGDVJHnxjTSVDJm3EPbB?usp=sharing
+calibrating, triggering a few reactions, and showing the virtual camera feed inside a meeting app.
 
-### Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 * Name 1: Adwaith Raj BP - Coding, Debugging, Technical Lead
@@ -101,4 +94,3 @@ python twinkleberry.py --no-vcam     # preview only, no virtual camera
 
 ---
 Made with ❤️ at TinkerHub Useless Projects
-- Want to change **how easily it goes off**? → `Z`, `FLOOR` and `ARM`
