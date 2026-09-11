@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/aa5ed48f-70c2-4022-ac7f-87a4c3066a24" width="100%"></td>
-    <td><img src="https://github.com/user-attachments/assets/c764c5eb-c17a-47f2-b4b0-49153c8cb3c0" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/08dfd3bb-18f8-485b-8481-0db0189acbdc" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/818f54c7-4cd8-4b86-bd23-33368ffebf7c" width="100%"></td>
   </tr>
 </table>
 
