@@ -2,7 +2,7 @@
 
 **Pull a face at your webcam. It fires back a meme.**
 
-*twinkleberry*
+*by Team Twinkleberry*
 
 </div>
 
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-twinkleberry watches your webcam, works out *which* face you're pulling, and
+memecsm watches your webcam, works out *which* face you're pulling, and
 drops the matching meme over your head — scaled and tracked to follow you
 around the frame. Fourteen reactions ship out of the box, and you can add as
 many more as you like.
@@ -29,7 +29,7 @@ python its_giving.py --no-vcam    # preview only
 > out · dancing · nose pinch · flirty · hand up · tongue out · gasp · disgust ·
 > talking to the wall · side-eye · spinning
 
-There's a second file, `its_giving_v2.py` — the same thing, but with the
+There's a second file, `Twinkleberryy.py` — the same thing, but with the
 expression thresholds calibrated to *your* face instead of to a number
 somebody guessed.
 
@@ -59,8 +59,8 @@ themselves on first run.
 ## ▶️ Running it
 
 ```bash
-python its_giving_v2.py --calibrate   # once, seven seconds
-python its_giving_v2.py
+python twinkleberry.py --calibrate   # once, seven seconds
+python twinkleberryy.py
 ```
 
 | key | does |
